@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "+EusYcp8MLYlv6NnVTmQdb2YyP38MOq2bVtI5LQrXbg=",
+  "Source": "csharp-crup-api",
+  "BasePath": "_content/csharp-crup-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
